@@ -1,0 +1,21 @@
+
+{
+  "name": "John Smith",
+  "age": 30,
+  "email": "johnsmith@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "country": "USA"
+  },
+  "hobbies": [
+    "reading",
+    "gaming",
+    "hiking"
+  ],
+  "isEmployed": true
+}
+
+
+
