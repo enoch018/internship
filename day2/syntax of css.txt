@@ -1,0 +1,33 @@
+externas css:
+
+sector name (tyo html tag haru ko nam) {
+property : value
+}
+
+for spacing 
+margin 
+padding 
+height 
+width
+----------------------
+for text 
+font-size
+font-style
+
+--------------
+for text alignment
+text-align
+displey
+justify-content
+align-items
+--------------------------
+for position
+position:
+z-indes
+overflow
+float
+
+color
+pgcolor 
+
+

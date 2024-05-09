@@ -1,0 +1,43 @@
+/*this is the css for margin of navbar*/
+a{
+	margin: 25px
+   
+
+}
+/**/
+h1{
+	text-align: left;
+}
+#division  {
+color: white;
+display: inline-block;
+
+}
+p{
+	color: red;
+    text-align:left;
+}
+#navbar{
+	background-color: black
+	color:white;
+}
+#paragraph p{
+	text-align: left;
+	float: right
+}
+body{
+	background-color: lightblue; 
+}
+div{
+	background-color: black;
+	
+}
+a{color:white;}
+
+img{
+	float: left;
+	border-radius:70%;
+}
+#sakshym{
+	margin: 20px
+}
